@@ -1,0 +1,3 @@
+[submodule "src/StableToken"]
+	path = src/StableToken
+	url = https://github.com/Tencent/StableToken.git
